@@ -1,6 +1,6 @@
 import random
 from Obstacle import *
-from constants import *
+import constants
 
 class SmallCactus(Obstacle):
     def __init__(self, image):

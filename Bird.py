@@ -1,6 +1,6 @@
 from Obstacle import *
 import random
-from constants import *
+import constants
 
 class Bird(Obstacle):
     def __init__(self, image):

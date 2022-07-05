@@ -1,7 +1,8 @@
 import time
 
 from KeyClassifier import *
-from constants import *
+from Bird import *
+import constants
 from play import manyPlaysResults
 
 def first(x):
@@ -58,6 +59,7 @@ def generate_neighborhood(state):
 # Gradiente Ascent
 def gradient_ascent(state, max_time):
     start = time.process_time()
+
     res, max_value = manyPlaysResults(3)
     better = True
     end = 0
@@ -65,7 +67,7 @@ def gradient_ascent(state, max_time):
         neighborhood = generate_neighborhood(state)
         better = False
         for s in neighborhood:
-            aiPlayer = KeySimplestClassifier(s)
+            constants.aiPlayer = KeySimplestClassifier(s)
             res, value = manyPlaysResults(3)
             if value > max_value:
                 state = s

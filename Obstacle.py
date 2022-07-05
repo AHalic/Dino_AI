@@ -1,4 +1,4 @@
-from constants import *
+import constants
 
 class Obstacle():
     def __init__(self, image, type):
@@ -7,12 +7,12 @@ class Obstacle():
         self.type = type
         self.rect = self.image[self.type].get_rect()
 
-        self.rect.x = SCREEN_WIDTH
+        self.rect.x = constants.SCREEN_WIDTH
 
     def update(self):
-        self.rect.x -= game_speed
+        self.rect.x -= constants.game_speed
         if self.rect.x < - self.rect.width:
-            obstacles.pop(0)
+            constants.obstacles.pop(0)
 
     def draw(self, SCREEN):
         SCREEN.blit(self.image[self.type], self.rect)
@@ -21,7 +21,7 @@ class Obstacle():
         return (self.rect.x, self.rect.y)
 
     def getHeight(self):
-        return y_pos_bg - self.rect.y
+        return constants.y_pos_bg - self.rect.y
 
     def getType(self):
         return (self.type)

@@ -1,4 +1,4 @@
-from constants import *
+import constants
 
 class Dinosaur:
     X_POS = 90
@@ -8,9 +8,9 @@ class Dinosaur:
     JUMP_GRAV = 1.1
 
     def __init__(self):
-        self.duck_img = DUCKING
-        self.run_img = RUNNING
-        self.jump_img = JUMPING
+        self.duck_img = constants.DUCKING
+        self.run_img = constants.RUNNING
+        self.jump_img = constants.JUMPING
 
         self.dino_duck = False
         self.dino_run = True
