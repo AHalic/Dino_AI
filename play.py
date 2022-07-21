@@ -1,6 +1,7 @@
 import random
 import pygame
 from sys import exit
+import numpy as np
 
 # import classes
 from Cloud import *
@@ -66,18 +67,22 @@ def playGame():
         constants.SCREEN.fill((255, 255, 255))
 
         distance = 1500
+        altitude = 0
         obHeight = 0
         obType = 2
         if len(constants.obstacles) != 0:
             xy = constants.obstacles[0].getXY()
             distance = xy[0]
+            altitude = xy[1]
             obHeight = constants.obstacles[0].getHeight()
             obType = constants.obstacles[0]
 
         if constants.GAME_MODE == "HUMAN_MODE":
             userInput = playerKeySelector()
         else:
-            userInput = constants.aiPlayer.keySelector(distance, obHeight, constants.game_speed, obType)
+            # print('distance: ', str(distance), 'altitude: ', str(altitude))
+            # userInput = constants.aiPlayer.keySelector(distance, obHeight, constants.game_speed, obType)
+            userInput = constants.aiPlayer.keySelector(distance, altitude, constants.game_speed)
 
         if len(constants.obstacles) == 0 or constants.obstacles[-1].getXY()[0] < spawn_dist:
             spawn_dist = random.randint(0, 670)
