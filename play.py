@@ -82,7 +82,7 @@ def playGame():
         else:
             # print('distance: ', str(distance), 'altitude: ', str(altitude))
             # userInput = constants.aiPlayer.keySelector(distance, obHeight, constants.game_speed, obType)
-            userInput = constants.aiPlayer.keySelector(distance, altitude, constants.game_speed)
+            userInput = constants.aiPlayer.keySelector([distance, altitude, constants.game_speed])
 
         if len(constants.obstacles) == 0 or constants.obstacles[-1].getXY()[0] < spawn_dist:
             spawn_dist = random.randint(0, 670)

@@ -7,7 +7,7 @@ class Bird(Obstacle):
         self.type = 0
         super().__init__(image, self.type)
 
-        # High, middle or ground
+        # ground, high, middle
         if random.randint(0, 3) == 0:
             self.rect.y = 345
         elif random.randint(0, 2) == 0:

@@ -36,5 +36,6 @@ BG = pygame.image.load(os.path.join("Assets/Other", "Track.png"))
 
 
 global aiPlayer 
+global initial_state_size, coord_size, label_state
 
 global game_speed, x_pos_bg, y_pos_bg, points, obstacles
