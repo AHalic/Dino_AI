@@ -407,7 +407,7 @@ class GAKeyClassifier(KeyClassifier):
 		if len(most_keys) > 1 and most_keys[0][1] > most_keys[1][1]:
 			return most_keys[0][0]
 		else:
-			return index
+			return label_state[index]
 		# if min(dist) < 0.2:
 		#     return dist.index(min(dist))
 		# else: 
@@ -532,12 +532,12 @@ def genetic_algorithm(state_size, max_time):
 	gene_type = int
 
 	# Define o espaço para os genes referentes a altitude do obstáculo
-	gene_space = [None, [260, 300, 325, 345], None] * state_size
+	gene_space = [None, [260, 300, 325, 345], range(0, 25)] * state_size
 
 	num_genes = state_size * 3
 
 	init_range_low = 0
-	init_range_high = 800
+	init_range_high = 600
 
 	parent_selection_type = "tournament"
 	keep_parents = 1
@@ -594,7 +594,7 @@ if __name__ == '__main__':
 	f.write(f'Start search\n')
 	f.close()
 
-	best_state, best_value = genetic_algorithm(initial_state_size, 3600) 
+	best_state, best_value = genetic_algorithm(initial_state_size, 360) 
 	aiPlayer = GAKeyClassifier(best_state)
 
 	print('Solução encontrada, indo para a etapa de desempenho')

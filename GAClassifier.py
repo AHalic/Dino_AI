@@ -52,7 +52,7 @@ class GAKeyClassifier(KeyClassifier):
         if len(most_keys) > 1 and most_keys[0][1] > most_keys[1][1]:
             return most_keys[0][0]
         else:
-            return index_min
+            return constants.label_state[index_min]
 
 
     def norm_state(self, params):
@@ -168,12 +168,18 @@ def genetic_algorithm(state_size, max_time):
     gene_type = int
 
     # Define o espaço para os genes referentes a altitude do obstáculo
-    gene_space = [None, [260, 300, 325, 345], None] * state_size
+    gene_space = [None, [260, 300, 325, 345], range(10,30)] * state_size
+    initial_population = [[20, 300, 10, 108, 325, 11, 660, 325, 10, 20, 300, 10, 207, 325, 19, 12, 260, 16, 130, 345, 17],
+                          [581, 260, 10, 151, 300, 46, 109, 260, 144, 571, 325, 23, 176, 345, 21, 711, 260, 53, 67, 300, 13],
+                          [142, 260, 15, 63, 345, 19, 71, 260, 22, 163, 300, 20, 228, 345, 21, 650, 300, 10, 11, 300, 10],
+                          [581, 260, 15, 133, 325, 18, 477, 325, 15, 58, 300, 11, 151, 345, 24, 248, 260, 14, 67, 300, 20],
+                          [537, 325, 20, 117, 300, 14, 562, 300, 9, 11, 260, 13, 73, 345, 15, 520, 325, 2, 254, 345, 4],
+                          [57, 300, 20, 117, 345, 14, 562, 300, 11, 11, 260, 13, 73, 325, 15, 520, 325, 2, 254, 300, 4]]
 
     num_genes = state_size * 3
 
     init_range_low = 0
-    init_range_high = 800
+    init_range_high = 600
 
     parent_selection_type = "tournament"
     keep_parents = 1
