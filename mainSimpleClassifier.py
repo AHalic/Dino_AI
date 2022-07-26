@@ -12,6 +12,7 @@ import constants
 
 
 if __name__ == '__main__':
+    constants.AI_MODE = 'GS'
     initial_state = [(15, 250), (18, 350), (20, 450), (1000, 550)]
 
     print('Simple Classifier IA')

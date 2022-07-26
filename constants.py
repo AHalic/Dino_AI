@@ -5,6 +5,7 @@ pygame.init()
 
 # Valid values: HUMAN_MODE or AI_MODE
 GAME_MODE = "AI_MODE"
+AI_MODE = 'GA'
 
 # Global Constants
 SCREEN_HEIGHT = 600

@@ -13,7 +13,7 @@ import constants
 
 if __name__ == '__main__':
     # initial state (distance, object altitude, speed)
-
+    constants.AI_MODE = 'GA'
     constants.initial_state_size = 7
     constants.coord_size = 3
 
