@@ -1,5 +1,4 @@
 import time
-from tracemalloc import start
 import pygad
 import numpy as np
 from sklearn.preprocessing import StandardScaler
@@ -24,7 +23,7 @@ class GAKeyClassifier(KeyClassifier):
         # Normaliza o estado
         self.scaler = StandardScaler()
         self.state = self.scaler.fit_transform(np.asarray(self.state).reshape(constants.initial_state_size,constants.coord_size))
-        # self.state = self.state.reshape(constants.initial_state_size)
+        
 
     def find_closest(self, frame, k):
         """
@@ -40,20 +39,20 @@ class GAKeyClassifier(KeyClassifier):
         """
         dist = [np.linalg.norm(self.state[i]- frame) for i in range(0, len(self.state))]
 
-        # print(min(dist))
-
+        index_min = dist.index(min(dist))
         dist = np.asarray(dist)
         idx = np.argpartition(dist, k)[:k]
 
         keys = [constants.label_state[val] for val in idx]
 
         count_keys = Counter(keys)
-        
-        return count_keys.most_common(1)[0][0]
-        # if min(dist) < 0.2:
-        #     return dist.index(min(dist))
-        # else: 
-        #     return -1
+        most_keys = count_keys.most_common()
+
+        if len(most_keys) > 1 and most_keys[0][1] > most_keys[1][1]:
+            return most_keys[0][0]
+        else:
+            return index_min
+
 
     def norm_state(self, params):
         """
@@ -92,16 +91,9 @@ class GAKeyClassifier(KeyClassifier):
         
         params = self.norm_state(params)
 
-        closest = self.find_closest(params, 2)
+        closest = self.find_closest(params, 3)
 
         return closest
-
-        # if closest == -1:
-        #     return "K_NO"
-        # elif closest % 2 == 0:
-        #     return "K_DOWN"
-        # return "K_UP"
-
 
     def updateState(self, state):
         """
@@ -122,8 +114,7 @@ def fitness_func(solution, solution_idx):
     """ 
 
     constants.aiPlayer = GAKeyClassifier(solution)
-    # res, value = manyPlaysResults(3)
-    value = playGame()
+    res, value = manyPlaysResults(3)
 
     return value
 
@@ -138,8 +129,15 @@ def check_generation(instance):
     - "stop": Se o tempo de execução tiver atingido o limite
     - "continue": Se o tempo de execução não tiver atingido o limite
     """
-    actual_time = time.process_time() - start_time 
+
+    actual_time = time.time() - start_time 
     print('finished a generation in', actual_time, 'seconds')
+
+    solution, solution_fitness, solution_idx = instance.best_solution()
+    
+    f = open("solutions.txt", "a")
+    f.write(f'best solution of the {instance.generations_completed} generation: {solution}, fitness: {solution_fitness}\n')
+    f.close()
 
     if actual_time > time_max:
         return "stop"
@@ -163,7 +161,7 @@ def genetic_algorithm(state_size, max_time):
     fitness_function = fitness_func
 
     num_generations = 800
-    num_parents_mating = 4
+    num_parents_mating = 2
 
     sol_per_pop = 20
     gene_type = int
@@ -174,17 +172,17 @@ def genetic_algorithm(state_size, max_time):
     num_genes = state_size * 3
 
     init_range_low = 0
-    init_range_high = 1000
+    init_range_high = 800
 
     parent_selection_type = "tournament"
-    keep_parents = 2
+    keep_parents = 1
 
-    crossover_type = "two_points"
+    crossover_type = "single_point"
     crossover_probability = 0.8
-    K_tournament=3
+    K_tournament=4
 
     mutation_type = "random"
-    mutation_probability = 0.2
+    mutation_probability = 0.4
 
     stop_criteria= "saturate_100"
 
@@ -208,12 +206,10 @@ def genetic_algorithm(state_size, max_time):
                             stop_criteria=stop_criteria,
                             on_generation=check_generation)
 
-    start_time = time.process_time()
+    start_time = time.time()
     ga_instance.run()
 
     solution, solution_fitness, solution_idx = ga_instance.best_solution()
-    # print("Parameters of the best solution : {solution}".format(solution=solution))
-    # print("Fitness value of the best solution = {solution_fitness}".format(solution_fitness=solution_fitness))
 
     return solution, solution_fitness
 

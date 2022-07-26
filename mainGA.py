@@ -17,11 +17,18 @@ if __name__ == '__main__':
     constants.initial_state_size = 7
     constants.coord_size = 3
 
-    constants.label_state = ["K_UP", "K_DOWN", "K_NO"] * constants.initial_state_size
+    constants.label_state = ["K_DOWN", "K_UP", "K_NO"] * constants.initial_state_size
 
     print('Genetic Algorithm IA')
-    best_state, best_value = genetic_algorithm(constants.initial_state_size, 43200) 
+    best_state, best_value = genetic_algorithm(constants.initial_state_size, 32400) 
     constants.aiPlayer = GAKeyClassifier(best_state)
+
+    print('Solução encontrada, indo para a etapa de desempenho')
+    f = open("solutions.txt", "a")
+    f.write(f'Final solution: {best_state}, fitness: {best_value}')
+    f.close()
+
     res, value = manyPlaysResults(30)
     npRes = np.asarray(res)
     print('results:', res, '\nmean results:', npRes.mean(), '\nstd results:', npRes.std(), '\nmean - std', value)
+

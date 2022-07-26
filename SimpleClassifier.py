@@ -58,7 +58,7 @@ def generate_neighborhood(state):
 
 # Gradiente Ascent
 def gradient_ascent(state, max_time):
-    start = time.process_time()
+    start = time.perf_counter()
 
     res, max_value = manyPlaysResults(3)
     better = True
