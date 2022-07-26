@@ -2097,3 +2097,1121 @@ best solution of the 12 generation: [587 345 332 423 260 160 218 300 746 669 260
  683 260 447], fitness: 144.25
 best solution of the 13 generation: [587 260 332 423 260 161 219 260 745 670 300 634 323 300 522 725 345 780
  683 300 449], fitness: 136.0
+Start search
+best solution of the 1 generation: [245 260  17  31 260  15  76 345   9 166 300   1 228 325   6  95 325  18
+ 305 260  20], fitness: 57.5
+best solution of the 2 generation: [245 260  20  30 260  16  76 345   9 165 300   3 228 345   6  95 325  18
+ 134 260  16], fitness: 133.25
+best solution of the 3 generation: [245 260  20  30 260  16  76 345   9 165 300   3 228 345   6  95 325  18
+ 134 260  16], fitness: 133.25
+best solution of the 4 generation: [244 260  20  30 325  16  76 345   9 165 325   3 228 345   9  95 325  18
+ 134 260  16], fitness: 323.0
+best solution of the 5 generation: [244 260  20  29 345  21  74 325   9 164 300   3 228 325   9  95 325  16
+ 134 260   5], fitness: 453.5
+best solution of the 6 generation: [244 260  20  29 345  21  74 325   9 164 300   3 228 325   9  95 325  16
+ 134 260   5], fitness: 453.5
+best solution of the 7 generation: [244 260  20  29 345  21  74 325   9 164 300   3 228 325   9  95 325  16
+ 134 260   5], fitness: 453.5
+best solution of the 8 generation: [244 260  20  29 345  21  74 325   9 164 300   3 228 325   9  95 325  16
+ 134 260   5], fitness: 453.5
+best solution of the 9 generation: [244 260  20  29 345  21  74 325   9 164 300   3 228 325   9  95 325  16
+ 134 260   5], fitness: 453.5
+best solution of the 10 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 11 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 12 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 13 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 14 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 15 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 16 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 17 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 18 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 19 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 20 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 21 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 22 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 23 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 24 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 25 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 26 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 27 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 28 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 29 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 30 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 31 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 32 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 33 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 34 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 35 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 36 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 37 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 38 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 39 generation: [244 260   2  28 300  21  74 325   2 164 300   3 228 325   9  95 345  16
+ 134 260   5], fitness: 453.75
+best solution of the 40 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 41 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 42 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 43 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 44 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 45 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 46 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 47 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 48 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 49 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 50 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 51 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 52 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 53 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 54 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 55 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 56 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 57 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 58 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 59 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 60 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 61 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 62 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 63 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 64 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 65 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 66 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 67 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 68 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 69 generation: [244 260   2  27 345  13  74 325   2 164 300   1 228 325   0  95 325  16
+ 134 260   5], fitness: 454.5
+best solution of the 70 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 71 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 72 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 73 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 74 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 75 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 76 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 77 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 78 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 79 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 80 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 81 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 82 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 83 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 84 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 85 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 86 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 87 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 88 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 89 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 90 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 91 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 92 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 93 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 94 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 95 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 96 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 97 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 98 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 99 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 100 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 101 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 102 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 103 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 104 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 105 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 106 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 107 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 108 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 109 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 110 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 111 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 112 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 113 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 114 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 115 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 116 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 117 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 118 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 119 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 120 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 121 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 122 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 123 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 124 generation: [243 260   9  24 345   3  73 325  17 164 345   3 228 325   8  95 325  13
+ 133 260   5], fitness: 589.25
+best solution of the 125 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 126 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 127 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 128 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 129 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 130 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 131 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 132 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 133 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 134 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 135 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 136 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 137 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 138 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 139 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 140 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 141 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 142 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 143 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 144 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 145 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 146 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 147 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 148 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 149 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 150 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 151 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 152 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 153 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 154 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 155 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 156 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 157 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 158 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 159 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 160 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 161 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 162 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 163 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 164 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 165 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 166 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 167 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 168 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 169 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 170 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 171 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 172 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 173 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 174 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 175 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 176 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 177 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 178 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 179 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 180 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 181 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 182 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 183 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 184 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 185 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 186 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 187 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 188 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 189 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 190 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 191 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 192 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 193 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 194 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 195 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 196 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 197 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 198 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 199 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 200 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 201 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 202 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 203 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 204 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 205 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 206 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 207 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 208 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 209 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 210 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 211 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 212 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 213 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 214 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 215 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 216 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 217 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 218 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 219 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 220 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 221 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 222 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 223 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 224 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+best solution of the 225 generation: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+Final solution: [242 260  15  23 345  19  71 260  22 163 260   2 228 300  21  95 300  11
+ 131 300   1], fitness: 1541.25
+
+Start search
+best solution of the 1 generation: [509 325  21 390 325   0 252 325  22 520 345  16 111 345  13 489 345  16
+ 316 300  23], fitness: 38.5
+best solution of the 2 generation: [581 325   1 334 325   7 481 260   5 520 325  10 481 260   3 250 325  14
+   9 260   9], fitness: 41.0
+best solution of the 3 generation: [581 300   7 333 345   1 481 325  18 520 325  23 553 345   1 251 260  11
+   8 260   8], fitness: 42.0
+best solution of the 4 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 5 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 6 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 7 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 8 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 9 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 10 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 11 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 12 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 13 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 14 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 15 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 16 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 17 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 18 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 19 generation: [581 300  22 334 325   2 480 325   8 519 325  18 552 345  24 250 260   3
+   7 260  15], fitness: 407.5
+best solution of the 20 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 21 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 22 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 23 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 24 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 25 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 26 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 27 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 28 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 29 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 30 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 31 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 32 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 33 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 34 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 35 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 36 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 37 generation: [581 260  19 334 325   2 479 325   8 518 345  18 552 345  24 249 260   3
+   7 260   3], fitness: 407.5
+best solution of the 38 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 39 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 40 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 41 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 42 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 43 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 44 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 45 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 46 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 47 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 48 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 49 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 50 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 51 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 52 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 53 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 54 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 55 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 56 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 57 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 58 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 59 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 60 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 61 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 62 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 63 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 64 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 65 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 66 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 67 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 68 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 69 generation: [581 260  19 333 325  18 478 325  15 518 345  18 551 345  24 249 260   3
+   6 260  14], fitness: 455.75
+best solution of the 70 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 71 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 72 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 73 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 74 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 75 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 76 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 77 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 78 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 79 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 80 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 81 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 82 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 83 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 84 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 85 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 86 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 87 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 88 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 89 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 90 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 91 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 92 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 93 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 94 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 95 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 96 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 97 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 98 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 99 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 100 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 101 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 102 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 103 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 104 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 105 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 106 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 107 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 108 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 109 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 110 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 111 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 112 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 113 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 114 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 115 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 116 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 117 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 118 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 119 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 120 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 121 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 122 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 123 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 124 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 125 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 126 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 127 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 128 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 129 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 130 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 131 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 132 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 133 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 134 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 135 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 136 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 137 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 138 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 139 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 140 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 141 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 142 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 143 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 144 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 145 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 146 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 147 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 148 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 149 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 150 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 151 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 152 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 153 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 154 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 155 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 156 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 157 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 158 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 159 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 160 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 161 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 162 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 163 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 164 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 165 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 166 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 167 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 168 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 169 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+best solution of the 170 generation: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+Final solution: [581 260  15 333 325  18 477 325  15 518 345   9 551 345  24 248 260   3
+   6 260  20], fitness: 736.5
+
+Start search
+best solution of the 1 generation: [540 345  20 119 345  18 563 300   4  12 300  21  80 260  24 521 325  15
+ 258 260   4], fitness: 454.5
+best solution of the 2 generation: [540 345  20 119 325  18 563 300   4  12 300  21  79 300  21 521 325  15
+ 258 260   8], fitness: 846.5
+best solution of the 3 generation: [540 345  20 119 325  18 563 300   4  12 300  21  79 300  21 521 325  15
+ 258 260   8], fitness: 846.5
+best solution of the 4 generation: [540 345  20 119 325  18 563 300   4  12 300  21  79 300  21 521 325  15
+ 258 260   8], fitness: 846.5
+best solution of the 5 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 6 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 7 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 8 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 9 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 10 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 11 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 12 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 13 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 14 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 15 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 16 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 17 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 18 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 19 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 20 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 21 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 22 generation: [540 345  20 119 325  12 563 300   4  12 260  22  79 345  21 521 325   7
+ 256 260  24], fitness: 989.25
+best solution of the 23 generation: [540 345  20 117 325  20 563 300   2  12 260   5  78 345  17 521 300   7
+ 256 345   4], fitness: 1281.25
+best solution of the 24 generation: [540 345  20 117 325  20 563 300   2  12 260   5  78 345  17 521 300   7
+ 256 345   4], fitness: 1281.25
+best solution of the 25 generation: [540 345  20 117 325  20 563 300   2  12 260   5  78 345  17 521 300   7
+ 256 345   4], fitness: 1281.25
+best solution of the 26 generation: [540 345  20 117 325  20 563 300   2  12 260   5  78 345  17 521 300   7
+ 256 345   4], fitness: 1281.25
+best solution of the 27 generation: [540 345  20 117 325  20 563 300   2  12 260   5  78 345  17 521 300   7
+ 256 345   4], fitness: 1281.25
+best solution of the 28 generation: [540 345  20 117 325  20 563 300   2  12 260   5  78 345  17 521 300   7
+ 256 345   4], fitness: 1281.25
+best solution of the 29 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 30 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 31 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 32 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 33 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 34 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 35 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 36 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 37 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 38 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 39 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 40 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 41 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 42 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 43 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 44 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 45 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 46 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 47 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 48 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 49 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 50 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 51 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 52 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 53 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 54 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 55 generation: [540 325  16 117 325  16 562 325   2  12 260   8  77 345  12 521 345  14
+ 255 325   4], fitness: 1340.0
+best solution of the 56 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 57 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 58 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 59 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 60 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 61 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 62 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 63 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 64 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 65 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 66 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 67 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 68 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 69 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 70 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 71 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 72 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 73 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 74 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 75 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 76 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 77 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 78 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 79 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 80 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 81 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 82 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 83 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 84 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 85 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 86 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 87 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 88 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 89 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 90 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 91 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 92 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 93 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 94 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 95 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 96 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 97 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 98 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 99 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 100 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 101 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 102 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 103 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 104 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 105 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 106 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 107 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 108 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 109 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 110 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 111 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 112 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 113 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 114 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 115 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 116 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 117 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 118 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 119 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 120 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 121 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 122 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 123 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 124 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 125 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 126 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 127 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 128 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 129 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 130 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 131 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 132 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 133 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 134 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 135 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 136 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 137 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 138 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 139 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 140 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 141 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 142 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 143 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 144 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 145 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 146 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 147 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 148 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 149 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 150 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 151 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 152 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 153 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 154 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 155 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+best solution of the 156 generation: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+ 
+Final solution: [537 325  20 117 300  14 562 300   9  11 260  13  73 345  15 520 325   2
+ 254 345   4], fitness: 1541.25
+
+Resultados: [1089.5, 210.0, 219.0, 1113.75, 1200.5, 1262.25, 287.0, 331.25, 181.0, 226.0, 1609.75, 111.25, 168.75, 183.0, 1068.0, 337.25, 941.5, 163.5, 136.75, 465.5, 1123.25, 1264.25, 276.75, 1196.5, 296.75, 1145.5, 1133.5, 117.0, 1135.75, 1139.75]
+mean: 671.15 and std: 484.46238932105626 and mean - std: 186.6876106789437
+
