@@ -48,6 +48,7 @@ class GAKeyClassifier(KeyClassifier):
         count_keys = Counter(keys)
         most_keys = count_keys.most_common()
 
+        # Caso empate, retorna o mais próximo
         if len(most_keys) > 1 and most_keys[0][1] > most_keys[1][1]:
             return most_keys[0][0]
         else:
