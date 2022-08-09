@@ -2,3 +2,4 @@ numpy
 sklearn
 pygad
 pygame
+experta

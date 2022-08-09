@@ -79,10 +79,15 @@ def playGame():
 
         if constants.GAME_MODE == "HUMAN_MODE":
             userInput = playerKeySelector()
+            if userInput == 'K_UP':
+                print('------------')
+                print('distance: ', distance, 'speed: ', constants.game_speed)
         else:
             # GS MODE
-            if constants.AI_MODE == "GS":
+            if constants.AI_MODE == "GS" or constants.AI_MODE == "RB":
                 userInput = constants.aiPlayer.keySelector(distance, obHeight, constants.game_speed, obType)
+                # if distance > 0 and constants.game_speed > 15:
+                #     print('distance: ', distance, 'speed: ', constants.game_speed)
 
             # GA MODE
             if constants.AI_MODE == 'GA':
